@@ -1,0 +1,76 @@
+{
+  "workbench.iconTheme": "vscode-icons",
+  "files.autoSave": "afterDelay",
+  "php.suggest.basic": false,
+  "php.validate.enable": false,
+  "emmet.excludeLanguages": [
+    "markdown",
+    "php"
+  ],
+  "git.ignoreMissingGitWarning": true,
+  "workbench.colorTheme": "Andromeda",
+  "editor.accessibilitySupport": "off",
+  "security.workspace.trust.untrustedFiles": "open",
+  "[python]": {
+    "editor.formatOnType": true
+  },
+  "[xml]": {
+    "editor.autoClosingBrackets": "never",
+    "files.trimFinalNewlines": true
+  },
+  "window.commandCenter": true,
+  "redhat.telemetry.enabled": true,
+  "editor.linkedEditing": true,
+  "terminal.integrated.defaultProfile.windows": "Command Prompt",
+  "[blade]": {
+    "editor.defaultFormatter": "shufo.vscode-blade-formatter",
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true
+  },
+  "[php]": {
+    "editor.defaultFormatter": "bmewburn.vscode-intelephense-client",
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true
+  },
+  "[css]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true
+  },
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true
+  },
+  "git.autofetch": true,
+  "editor.formatOnSave": true,
+  "[jsonc]": {
+    "editor.defaultFormatter": "vscode.json-language-features"
+  },
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "livePreview.notifyOnOpenLooseFile": false,
+  "liveServer.settings.donotVerifyTags": true,
+  "editor.wordWrap": "on",
+  "editor.tabSize": 2,
+  "liveServer.settings.donotShowInfoMsg": true,
+  "git.enableSmartCommit": true,
+  "git.confirmSync": false,
+  "telemetry.feedback.enabled": false,
+  "telemetry.telemetryLevel": "off",
+  "github.copilot.chat.codeGeneration.useInstructionFiles": false,
+  "github.copilot.enable": {
+    "*": false,
+    "plaintext": false,
+    "markdown": false,
+    "scminput": false
+  },
+  "github.copilot.editor.enableCodeActions": false,
+  "github.copilot.nextEditSuggestions.fixes": false,
+  "github.copilot.chat.copilotDebugCommand.enabled": false,
+  "github.copilot.chat.reviewSelection.enabled": false,
+}
